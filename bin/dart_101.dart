@@ -1,5 +1,5 @@
-import 'package:dart_101/basic.dart' as dart_101;
+import 'package:dart_101/dart_101.dart' as dart_101;
 
-void main(List<String> arguments) {
+void main() {
   dart_101.main();
 }
