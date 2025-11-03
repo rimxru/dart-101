@@ -1,6 +1,6 @@
 library dart_101;
 
-export 'basic.dart';
+export 'dart_101.dart';
 
 int calculate() => 42;
 
